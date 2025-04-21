@@ -15,51 +15,74 @@ This project allows users to:
 
 ## 🧩 Tables Used
 
-- **users**: Stores user information
-- **categories**: Groups habits into categories
-- **habits**: List of habits assigned to each user
+- **users**: Stores user information  
+- **categories**: Groups habits into categories  
+- **habits**: List of habits assigned to each user  
 - **entries**: Tracks daily habit completion (done/missed)
 
 ---
 
 ## 📊 SQL Features Demonstrated
 
-- Table creation with primary and foreign keys
-- Data insertion with `INSERT INTO`
-- Data filtering using `WHERE`
-- Joins (`JOIN`) to combine data from multiple tables
-- Aggregation using `COUNT()` and `GROUP BY`
-- Ordering results with `ORDER BY`
+- Table creation with primary and foreign keys  
+- Data insertion with `INSERT INTO`  
+- Data filtering using `WHERE`  
+- Joins (`JOIN`) to combine data from multiple tables  
+- Aggregation using `COUNT()` and `GROUP BY`  
+- Ordering results with `ORDER BY`  
 - Date functions like `strftime('%W', date)` for weekly summaries
 
 ---
 
 ## 🧠 Key Queries
 
-- Most consistent habits (most frequently done)
-- Habits missed most often
+- Most consistent habits (most frequently done)  
+- Habits missed most often  
 - Weekly performance summaries
 
 ---
 
 ## 🧑‍💻 Tech Stack
 
-- **SQLite v3**
-- Tested in [DB Fiddle](https://www.db-fiddle.com/)
+- **SQLite v3**  
+- Tested in [DB Fiddle](https://www.db-fiddle.com/)  
 - Can work in other SQL engines (MySQL, PostgreSQL) with small changes
 
 ---
 
 ## 📁 Files
 
-- `schema.sql` → Table creation
-- `queries.sql` → Data insertion + analytics queries
+- `schema.sql` → Table creation  
+- `queries.sql` → Data insertion + analytics queries  
 - `README.md` → Project overview (this file)
+
+---
+
+## 🖼️ Project Screenshots
+
+### 🗂️ 1. Database Schema
+Visual representation of the table structure.
+
+![Schema](screenshots/schema.png)
+
+---
+
+### 💡 2. Query Inputs
+Example queries written in SQL.
+
+![Query 1](screenshots/query1.png)  
+![Query 2](screenshots/query2.png)
+
+---
+
+### 📊 3. Actual Query Outputs
+Real results from the SQL queries.
+
+![Output 1](screenshots/output1.png)  
+![Output 2](screenshots/output2.png)
 
 ---
 
 ## 🙋‍♀️ Author
 
 Built by Jayashree K as a learning project to demonstrate SQL skills, habit tracking, and analytics.
-
-
