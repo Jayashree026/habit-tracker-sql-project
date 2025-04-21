@@ -63,25 +63,30 @@ This project allows users to:
 ### 🗂️ 1. Database Schema
 Visual representation of the table structure.
 
-![Schema](screenshots/schema.png)
 
----
+
+![schema png](https://github.com/user-attachments/assets/af1a64f3-9fc1-4b15-b66f-d8e7c4e54741)
+
 
 ### 💡 2. Query Inputs
 Example queries written in SQL.
 
-![Query 1](screenshots/query1.png)  
-![Query 2](screenshots/query2.png)
 
----
+![query1 png](https://github.com/user-attachments/assets/c2d35c0a-a270-4881-9df1-414667324216)
+
+![query2 png](https://github.com/user-attachments/assets/6d6ec31a-8158-459f-8268-63280ab55a7b)
+
 
 ### 📊 3. Actual Query Outputs
 Real results from the SQL queries.
 
-![Output 1](screenshots/output1.png)  
-![Output 2](screenshots/output2.png)
+
+![output1 png](https://github.com/user-attachments/assets/4243263c-219b-46e9-8f4a-ae674e65bf10)
+
+![output2 png](https://github.com/user-attachments/assets/2cd63e9a-6ccb-4912-b0fa-b39a70b84779)
 
 ---
+
 
 ## 🙋‍♀️ Author
 
